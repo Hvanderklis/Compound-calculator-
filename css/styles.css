@@ -1,4 +1,15 @@
+.navbar-default{
+    background-color: #FF4000;
+}
+.footer-company-about > p{
+    color: #fff !important;
+}
 
-body {
-	background-color: #d3d3d3;
+Body {
+    background-color: #a9a9a9;
+}
+
+.navbar-default a{
+    text-decoration: none !important;
+    color: #fff !important; 
 }
