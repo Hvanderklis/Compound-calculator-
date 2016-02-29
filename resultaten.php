@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+ <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Gemeente Bordeaux">
-        <meta name="keywords" content="Gemeente, Bordeaux, Frankrijk">
-        <meta name="author" content="Henk,Patrick,Azhar">
+        <meta name="keywords" content="">
+        <meta name="author" content="">
         <link href="css/bootstrap.css" rel="stylesheet">
         <link href="css/styles.css" rel="stylesheet">
-        <link rel="icon" href="photos/logo.png">
-        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
-        <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-        <script type="text/javascript" src="engine1/jquery.js"></script>
-        <link rel="stylesheet" href="css/footer-distributed-with-address-and-phones.css">
+     
         <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
         <title>Compound Calculator</title>
       
@@ -21,7 +17,6 @@
     <body>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script src="js/bootstrap.js"></script>
-        <!--ik heb hier echt geen zin in-->
         <header id="hgroup">
             <nav>
                 <div class="nav navbar-default">
@@ -35,6 +30,8 @@
                             </button>
                             <a class="navbar-brand" href="index.php">Compount Calculator</a>
                         </div>
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
                             </ul>
                             <ul class="nav navbar-nav navbar-right">
                                 <li><a href="contact.php">Contact</a></li>
