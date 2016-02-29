@@ -13,3 +13,11 @@ Body {
     text-decoration: none !important;
     color: #fff !important; 
 }
+input{
+    margin-left: 10px;
+    margin-top:5px;
+}
+
+table{
+    margin-right:20px;
+}
