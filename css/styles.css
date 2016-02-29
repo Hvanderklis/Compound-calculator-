@@ -1,9 +1,6 @@
 .navbar-default{
     background-color: #FF4000;
 }
-.footer-company-about > p{
-    color: #fff !important;
-}
 
 Body {
     background-color: #a9a9a9;
@@ -13,6 +10,7 @@ Body {
     text-decoration: none !important;
     color: #fff !important; 
 }
+
 input{
     margin-left: 10px;
     margin-top:5px;
