@@ -62,7 +62,7 @@
                 </tr>
                 <tr>
                     <td>
-                        Aantal jaren te sparen:
+                        Aantal jaar sparen:
                     </td>
                     <td>
                          <input required type="number" name="jaar" placeholder="1"> jaar
